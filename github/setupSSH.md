@@ -24,7 +24,7 @@ Replace *user@example.com* with your email adress.
 Copy the contents of the file ~/.ssh_id_rsa.pub to your SSH keys
 in github account settings.
 
-For details, see [https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/](github account)
+For details, see (https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)[github account]
 
 # Test the key
 
@@ -37,6 +37,14 @@ git clone git@github.com:username/username.github.io
 # Add some files
 
 ...
+
+# Use ssh agent
+
+Use *ssh-agent* to keep your SSH credentials in memory.
+This makes pushing your changes easier.
+
+(https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)[ssh agent]
+
 
 # Verify your page
 
