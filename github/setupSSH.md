@@ -32,7 +32,14 @@ ssh -T git@github.com
 
 # Clone the repository
 
-git clone git@github.com:username/username.github.io
+Git will offer you to clone your repository over https instead of ssh.
+
+    git clone git@github.com:username/username.github.io
+
+Use SSH instead to pull and push with the generated key
+
+    git clone ssh://git@github.com/username/username.github.io.git
+
 
 # Add some files
 
