@@ -10,6 +10,10 @@ The Art of Unix Programming
 
 [](http://www.catb.org/esr/writings/taoup/html/)
 
+## Javascript
+
+[RequireJS on AMD](http://requirejs.org/docs/whyamd.html)
+
 ## JSON
 
 ### JSON Date Interchange Standard ECMA-404
