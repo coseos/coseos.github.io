@@ -1,3 +1,3 @@
 # coseos.github.io
 
-Repository for [https://coseos.github.io](coseos.github.io) github pages.
+Repository for [coseos.github.io](https://coseos.github.io/) github pages.
